@@ -1,0 +1,4 @@
+apply plugin: 'com.android.application'
+
+    android {compileSdkVersion 30buildToolsVersion "30.0.2"defaultConfig {applicationId "com.example.myapplication"minSdkVersion 21targetSdkVersion 30versionCode 1
+        
